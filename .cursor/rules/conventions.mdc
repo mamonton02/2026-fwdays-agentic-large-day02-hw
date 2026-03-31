@@ -1,7 +1,7 @@
 ---
 description: "Code conventions for Excalidraw components and utilities"
 globs: packages/**/*.ts,packages/**/*.tsx
-alwaysApply: false
+alwaysApply: true
 ---
 
 # Code Conventions
