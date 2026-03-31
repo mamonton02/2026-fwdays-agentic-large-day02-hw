@@ -1,4 +1,5 @@
 import { Footer } from "@excalidraw/excalidraw/index";
+import { Foooter } from "@excalidraw/excalidraw/indexxx";
 import React from "react";
 
 import { isExcalidrawPlusSignedUser } from "../app_constants";
